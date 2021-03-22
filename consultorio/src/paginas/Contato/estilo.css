@@ -1,0 +1,27 @@
+.contato-container{
+    padding-top: 90px;
+    color: #1b3675;
+}
+
+.lista-medicos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.lista-medicos li{
+    list-style: none;
+    max-width: 300px;
+    padding: 10px 20px;
+}
+
+.lista-medicos li img{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+.contato-container{
+    background-color: #e6e6e6;
+}

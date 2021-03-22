@@ -1,0 +1,48 @@
+.convenios-container {
+    height: 100%;
+    background-color: #e6e6e6;
+    padding-top: 90px;
+    padding-bottom: 20px;
+    color: #1b3675;
+}
+
+.lista-convenios{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.lista-convenios li{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    list-style: none;
+    height: 200px;
+    width: 350px;
+    max-width: 400px;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+
+.lista-convenios li img{
+    width: 60%;
+    height: 45%;
+}
+
+#lista2 {
+    margin-bottom: 5px;
+}
+
+@media (max-width: 600px){
+    .lista-convenios{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    }
+
+    .lista-convenios li{
+        margin-top: 25px;
+    }
+}

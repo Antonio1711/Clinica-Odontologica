@@ -1,0 +1,10 @@
+.missao-container{
+    text-align: center;
+    padding-top: 90px;
+    color: #1b3675;
+    background-color: #e6e6e6;
+}
+
+.missao-container img{
+    width: 70%;
+}

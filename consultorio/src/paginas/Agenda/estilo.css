@@ -1,0 +1,21 @@
+.agenda-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 90px;
+    padding-bottom: 252px;
+    color: #1b3675;
+    background-color: #e6e6e6;
+}
+
+.consulta-container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fff;
+    width: 20%;
+    border-radius: 5px;
+}
+
+.dados-consulta{
+    width: 80%;
+}
