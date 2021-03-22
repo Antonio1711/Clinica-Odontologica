@@ -1,2 +1,2 @@
-# Clinica-Odontologica
-Contém um projeto de uma clínica odontológica fictícia feito em react-app 
+# Clinica Odontológica🦷
+Criei um projeto de uma clínica odontológica fictícia feito em react JS. 
