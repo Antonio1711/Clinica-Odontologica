@@ -1,4 +1,4 @@
-# Clinica Odontológica Dentes Saudáveis🦷
+# Clínica Odontológica Dentes Saudáveis🦷
 Criei um projeto de uma clínica odontológica fictícia chamada Dentes Saudáveis feito em react JS. São quatro páginas estáticas que contém informações sobre a clínica e possui uma página para agendar uma consulta.
 
 ## As páginas são:
